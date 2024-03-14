@@ -13,8 +13,6 @@
      </header>
  <h2>Moje ulubione gry:</h2>
  <ol>
-    <h3><li>League of legends</li><a href = "https://www.leagueoflegends.com/pl-pl/" > link </a></h3>
-    <IMG src="https://gaming.komputronik.pl/wp-content/uploads/2023/06/ile-osob-gra-w-lola.jpg">
     <h3><li>Counter-strike 2</li><a href = "https://store.steampowered.com/app/730/CounterStrike_2/" > link </a></h3>
     <IMG src="https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1698860631">
     <h3><li>Black Desert Online</li><a href = "https://store.steampowered.com/app/582660/Black_Desert/" > link </a></h3>
