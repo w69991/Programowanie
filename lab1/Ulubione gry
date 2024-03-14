@@ -9,6 +9,7 @@
         <h1>Moja strona</h1>
         <a href="Strona główna">Strona Główna</a>
         <a href="Ulubione gry">Ulubione gry</a>
+        <a href="Ulubione seriale">Ulubione seriale</a>
      </header>
  <h2>Moje ulubione gry:</h2>
  <ol>

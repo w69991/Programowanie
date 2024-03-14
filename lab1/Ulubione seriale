@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+ <meta charset="utf-8" />
+ <title>My Website</title>
+</head>
+<body>
+    <header style="background-color: aqua;">
+    <h1>Moja strona</h1>
+    <a href="Strona główna">Strona Główna</a>
+    <a href="Ulubione gry">Ulubione gry</a>
+    <a href="Ulubione seriale">Ulubione seriale</a>
+ </header>
+ <h2>Ulubione seriale</h2>
+ <ol>
+    <h3><li>The Boys</li><a href ="https://www.primevideo.com/detail/The-Boys/0KRGHGZCHKS920ZQGY5LBRF7MA">link</a></h3>
+    <h3><li>The Mandalorian</li><a href = "https://www.disneyplus.com/pl-pl/series/the-mandalorian/3jLIGMDYINqD">link</a></h3>
+    <h3><li>Loki</li><a href ="https://www.disneyplus.com/pl-pl/series/loki/6pARMvILBGzF">link</a></h3>
+    <h3><li>Moon Knight</li><a href ="https://www.disneyplus.com/pl-pl/series/moon-knight/4S3oOF1knocS">link</a></h3>
+    <h3><li>Arcane</li><a href ="https://www.netflix.com/pl/title/81435684">link</a></h3>
+    <h3><li>Breaking Bad</li><a href ="https://www.netflix.com/pl/title/70143836">link</a></h3>
+    <h3><li>Peaky Blinders</li><a href ="https://www.netflix.com/pl/title/80002479">link</a></h3>
+ </ol>
+ <footer style="background-color: aqua;">
+    autor: Adam Orłowski w69991<br>
+    2024<br>
+ </footer>
+</body>
+</html

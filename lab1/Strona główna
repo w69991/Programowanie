@@ -9,18 +9,19 @@
     <h1>Moja strona</h1>
     <a href="Strona główna">Strona Główna</a>
     <a href="Ulubione gry">Ulubione gry</a>
+    <a href="Ulubione seriale">Ulubione seriale</a>
  </header>
  <nav>
  <h1>Moje dane:</h1>
  </nav>
 
  <section>
-    <h1>Adam Orłowski</h1>
+    <h2>Adam Orłowski</h2>
     <h2>Mam 20 lat</h2>
     <h3>Moje zainteresowania:</h3>
     <ul>
     <h4><b><li>Gry komputerowe</li></b></h4>
-    <h4><li>Filmy</li></h4>
+    <h4><li>Filmy i seriale</li></h4>
     </ul>
   </section>
  <article>
@@ -36,7 +37,7 @@
           <td>2019-2022</td><td>Liceum Ogólnokształcące nr 1 w Łańcucie</td>
       </tr>
       <tr>
-          <td>2023-teraz</td><td>WSIZ</td>
+          <td>2023-obecnie</td><td>WSIZ</td>
       </tr>
     </table>
  </article>
@@ -65,7 +66,7 @@
     </table>
   </article>
   <aside>
-    <h3>Obrazek:</h3>
+    <h5>Obrazek:</h5>
     <img src="Obraz.png" />
   </aside>
  <footer style="background-color: aqua;">
