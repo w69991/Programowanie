@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+ <meta charset="utf-8" />
+ <title>Ulubione gry</title>
+</head>
+<body>
+    <header style="background-color: aqua;">
+        <h1>Moja strona</h1>
+        <a href="Strona główna">Strona Główna</a>
+        <a href="Ulubione gry">Ulubione gry</a>
+     </header>
+ <h2>Moje ulubione gry:</h2>
+ <ol>
+    <h3><li>League of legends</li><a href = "https://www.leagueoflegends.com/pl-pl/" > link </a></h3>
+    <IMG src="https://gaming.komputronik.pl/wp-content/uploads/2023/06/ile-osob-gra-w-lola.jpg">
+    <h3><li>Counter-strike 2</li><a href = "https://store.steampowered.com/app/730/CounterStrike_2/" > link </a></h3>
+    <IMG src="https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1698860631">
+    <h3><li>Black Desert Online</li><a href = "https://store.steampowered.com/app/582660/Black_Desert/" > link </a></h3>
+    <IMG src="https://cdn.akamai.steamstatic.com/steam/apps/582660/header.jpg?t=1706642282">
+    <h3><li>Terraria</li><a href = "https://store.steampowered.com/app/105600/Terraria/">link</a></h3>
+    <IMG src="https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg?t=1666290860">
+    <h3><li>Warframe</li><a href = "https://store.steampowered.com/app/230410/Warframe/">link</a></h3>
+    <IMG src="https://cdn.akamai.steamstatic.com/steam/apps/230410/header.jpg?t=1708445781">
+    <h3><li>Elden Ring</li><a href = "https://store.steampowered.com/app/1245620/ELDEN_RING/">link</a></h3>
+    <IMG src="https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg?t=1710261394">
+    <h3><li>Lethal Company</li><a href = "https://store.steampowered.com/app/1966720/Lethal_Company/">link</a></h3>
+    <IMG src="https://cdn.akamai.steamstatic.com/steam/apps/1966720/header.jpg?t=1700231592">
+    <h3><li>Dark Souls 3</li><a href = "https://store.steampowered.com/app/374320/DARK_SOULS_III/">link</a></h3>
+    <IMG src="https://cdn.akamai.steamstatic.com/steam/apps/374320/header.jpg?t=1700587390">
+    <h3><li>Sekiro: Shadows Die Twice</li><a href = "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/">link</a></h3>
+    <IMG src="https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg?t=1678991267">
+ </ol>
+ <footer style="background-color: aqua;">
+    autor: Adam Orłowski w69991<br>
+    2024<br>
+ </footer>
+</body>
+</html>

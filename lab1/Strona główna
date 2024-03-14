@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+ <meta charset="utf-8" />
+ <title>Moja strona</title>
+</head>
+<body>
+ <header style="background-color: aqua;">
+    <h1>Moja strona</h1>
+    <a href="Strona główna">Strona Główna</a>
+    <a href="Ulubione gry">Ulubione gry</a>
+ </header>
+ <nav>
+ <h1>Moje dane:</h1>
+ </nav>
+
+ <section>
+    <h1>Adam Orłowski</h1>
+    <h2>Mam 20 lat</h2>
+    <h3>Moje zainteresowania:</h3>
+    <ul>
+    <h4><b><li>Gry komputerowe</li></b></h4>
+    <h4><li>Filmy</li></h4>
+    </ul>
+  </section>
+ <article>
+  <h2>Moje wykształcenie: </h2>
+  <table border="1">
+      <tr>
+          <td>2010-2016</td><td>Szkoła podstawowa nr 3 w Łańcucie</td>
+      </tr>
+      <tr>
+          <td>2016-2019</td><td>Gimnazjum nr 1 w Łańcucie</td>
+      </tr>
+      <tr>
+          <td>2019-2022</td><td>Liceum Ogólnokształcące nr 1 w Łańcucie</td>
+      </tr>
+      <tr>
+          <td>2023-teraz</td><td>WSIZ</td>
+      </tr>
+    </table>
+ </article>
+
+ <article>
+  <h3>Tabela 100x100:</h3>
+  <table border="1" style="width:100%; width: 100px; height: 100px;">
+      <tr>
+        <td></td>
+        <td rowspan="2"></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td colspan="2" rowspan="2"></td>
+      </tr>
+        <td></td>
+      <tr>
+        <td colspan="2"></td>
+        <td></td>
+      </tr>
+    </table>
+  </article>
+  <aside>
+    <h3>Obrazek:</h3>
+    <img src="Obraz.png" />
+  </aside>
+ <footer style="background-color: aqua;">
+  autor: Adam Orłowski w69991<br>
+  2024<br>
+ </footer>
+</body>
+</html>
